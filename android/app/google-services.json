@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1058989108526",
+    "project_id": "food-donation-508f1",
+    "storage_bucket": "food-donation-508f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058989108526:android:861498abaf4a250cf8debf",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058989108526-qpivomi04gcp5f28d1g6t5ac33sdmkot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiO0CR3WcTyd1Oizc-Gu2HB2moLyAaZzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058989108526-qpivomi04gcp5f28d1g6t5ac33sdmkot.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058989108526-vfc1n622tvr8feekuqrkijkt6kolu4ms.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodDonation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058989108526:android:6e1ad34b4646789cf8debf",
+        "android_client_info": {
+          "package_name": "com.example.food_donation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058989108526-qpivomi04gcp5f28d1g6t5ac33sdmkot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiO0CR3WcTyd1Oizc-Gu2HB2moLyAaZzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058989108526-qpivomi04gcp5f28d1g6t5ac33sdmkot.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058989108526-vfc1n622tvr8feekuqrkijkt6kolu4ms.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodDonation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
